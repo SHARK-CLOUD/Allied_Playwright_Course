@@ -1,0 +1,21 @@
+{
+  "name": "playwright_rj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^22.20.4"
+  },
+  "dependencies": {
+    "node": "^26.8.2"
+  },
+  "allowScripts": {
+    "node@26.8.2": true
+  }
+}
